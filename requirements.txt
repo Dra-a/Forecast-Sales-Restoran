@@ -2,3 +2,4 @@ streamlit==1.42.0
 pandas
 statsmodels
 matplotlib
+asyncio
